@@ -7,7 +7,7 @@
 }
 
 body {
-  background-color: rgb(233, 191, 139);
+  background-color: rgb(243, 220, 192);
   font-family: "Poppins", sans-serif;
 }
 
@@ -97,7 +97,7 @@ a:hover {
   position: absolute;
   top: 100%;
   right: 0;
-  background-color: rgb(246, 209, 160);
+  background-color: rgb(243, 220, 192);
   width: fit-content;
   max-height: 0;
   overflow: hidden;
